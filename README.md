@@ -1,4 +1,4 @@
-# Movie App
+# Movie App In Work...
 ![cover](./assets/)
 
 ## 🦉 Main information
@@ -20,16 +20,17 @@ View Demo and have fun here <a href="" target="_blank">Movie App</a>
 
 ## 🦊 Useful links 
 
-### 
+### Site to get an API key
+You need to have your account and get your API key to use it in this app
 
 ```
-
+https://www.themoviedb.org
 ```
 
-### 
+### How to use async and await in vanilla JS
 
 ```
-
+https://gomakethings.com/how-to-use-async-and-await-in-vanilla-js/
 ```
 
 
